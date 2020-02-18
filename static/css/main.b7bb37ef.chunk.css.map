@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,KACE,wBACF,CAEA,iBACE,YAAa,CACb,mCAAqC,CACrC,UACF","file":"main.b7bb37ef.chunk.css","sourcesContent":["\nbody {\n  background-color: #e5e5e5;\n}\n\n.restaurant-list {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  margin: 5vw;\n}\n"]}
